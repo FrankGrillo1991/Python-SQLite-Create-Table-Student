@@ -1,1 +1,1 @@
-Table Student developed with Python and SQLite
+Table Student developed with Python and SQLite3
